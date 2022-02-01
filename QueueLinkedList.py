@@ -61,10 +61,10 @@ class Queue:
 
 
 
-#custQueue = Queue()
-#custQueue.enqueue(1)
-#custQueue.enqueue(2)
-#custQueue.enqueue(3)
-#print(custQueue)
-#print(custQueue.peek())
-#print(custQueue)
+# custQueue = Queue()
+# custQueue.enqueue(1)
+# custQueue.enqueue(2)
+# custQueue.enqueue(3)
+# print(custQueue)
+# print(custQueue.peek())
+# print(custQueue)
